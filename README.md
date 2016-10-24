@@ -29,9 +29,6 @@
   <a href="https://www.youtube.com/watch?v=BwAakF_VUV8&list=PLoAsubXIl8uJugGO_VFB0Q0xe3r0Jk6C9">ReactJS from the start (CodeWithTim)</a>
 </p>
 <p>
-  <a href="https://www.youtube.com/watch?v=QW4WxcsjBvs&index=17&list=PLoAsubXIl8uJugGO_VFB0Q0xe3r0Jk6C9">Course on React and Redux (CodeWithTim)</a>
-</p>
-<p>
   <a href="https://www.youtube.com/watch?v=5oiXG9f6GO0&list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY">Building app with React and Redux (Rem Zolotykh)</a>
 </p>
 <p>
