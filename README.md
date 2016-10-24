@@ -13,5 +13,9 @@
   <a href="http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/">Create a character voting app using React, Node.js, MongoDB and Socket.IO</a>
 </p>
 
+<p>
+  <a href="https://www.syncano.io/blog/build-pokemon-radar-app/">Build a Pokémon Radar App in React with Syncano</a>
+</p>
 
   
+
