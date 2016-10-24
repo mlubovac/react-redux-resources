@@ -22,3 +22,9 @@
 <p>
   <a href="https://learnredux.com/">Learn React & Redux</a>
 </p>
+
+<p>
+  <a href="https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_">ReactJS / Redux Basics</a>
+</p>
+
+
