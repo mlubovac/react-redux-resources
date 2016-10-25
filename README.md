@@ -18,7 +18,10 @@
 </p>
 <p>
   <a href="http://myappincome.co.uk/rock-and-roll-reactjs-tutorial-part-1/">Rock and Roll React.js Tutorial (myappincome.co.uk)</a>
-</p> 
+</p>
+<p>
+  <a href="http://tutorials.pluralsight.com/front-end-javascript/building-a-dashboard-in-react">Building a Dashboard in React (http://tutorials.pluralsight.com/)</a>
+</p>
  
 <h1>ReactJS Redux Video Tutorials/Lessons</h1>
 <p>
