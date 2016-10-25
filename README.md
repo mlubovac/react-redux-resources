@@ -22,6 +22,9 @@
 <p>
   <a href="http://tutorials.pluralsight.com/front-end-javascript/building-a-dashboard-in-react">Building a Dashboard in React (http://tutorials.pluralsight.com/)</a>
 </p>
+<p>
+  <a href="https://appendto.com/2016/09/creating-a-realtime-pokedex-app-with-react-and-rethinkdb/">Creating a Realtime Pokedex App with React and RethinkDB (appendto.com)</a>
+</p>
  
 <h1>ReactJS Redux Video Tutorials/Lessons</h1>
 <p>
