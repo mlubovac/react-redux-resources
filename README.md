@@ -16,7 +16,9 @@
 <p>
   <a href="http://cabin.getstream.io/">Learn React & Redux With Cabin</a>
 </p>
- 
+<p>
+  <a href="http://myappincome.co.uk/rock-and-roll-reactjs-tutorial-part-1/">Rock and Roll React.js Tutorial (myappincome.co.uk)</a>
+</p> 
  
 <h1>ReactJS Redux Video Tutorials/Lessons</h1>
 <p>
