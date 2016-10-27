@@ -6,7 +6,10 @@
   <a href="http://survivejs.com/react/introduction">SurviveJS - React From apprentice to master (survivejs.com)</a>
 </p>
 <p>
-  <a href="https://appendto.com/2016/10/mapping-colorados-14er-mountains-with-react-and-redux-mega-tutorial/">Mapping Colorado’s 14er Mountains: React and Redux Mega Tutorial</a>
+  <a href="https://appendto.com/2016/10/mapping-colorados-14er-mountains-with-react-and-redux-mega-tutorial/">Mapping Colorado’s 14er Mountains: React and Redux Mega Tutorial</a> (appendto.com)
+</p>
+<p>
+  <a href="https://appendto.com/2016/10/find-your-park-with-reactjs-and-the-darksky-api">‘Find Your Park’ with ReactJS, Google Maps and the DarkSky API</a>  (appendto.com)
 </p>
 <p>
   <a href="https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/">React Tutorial: Cloning Yelp</a>
@@ -27,7 +30,7 @@
   <a href="http://tutorials.pluralsight.com/front-end-javascript/building-a-dashboard-in-react">Building a Dashboard in React (http://tutorials.pluralsight.com/)</a>
 </p>
 <p>
-  <a href="https://appendto.com/2016/09/creating-a-realtime-pokedex-app-with-react-and-rethinkdb/">Creating a Realtime Pokedex App with React and RethinkDB (appendto.com)</a>
+  <a href="https://appendto.com/2016/09/creating-a-realtime-pokedex-app-with-react-and-rethinkdb/">Creating a Realtime Pokedex App with React and RethinkDB</a>  (appendto.com)
 </p>
  
 <h1>ReactJS Redux Video Tutorials/Lessons</h1>
