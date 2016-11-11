@@ -32,6 +32,13 @@
 <p>
   <a href="https://appendto.com/2016/09/creating-a-realtime-pokedex-app-with-react-and-rethinkdb/">Creating a Realtime Pokedex App with React and RethinkDB</a> (appendto.com)
 </p>
+<p>
+  <a href="http://4dev.tech/2016/03/tutorial-sorting-and-filtering-a-reactjs-datatable/">Tutorial: Sorting and Filtering a ReactJS Datatable</a> (4dev.tech)
+</p>
+ 
+ 
+ 
+ 
  
 <h1>ReactJS Redux Video Tutorials/Lessons</h1>
 <p>
