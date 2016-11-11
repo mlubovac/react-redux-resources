@@ -66,5 +66,9 @@
   <a href="https://www.youtube.com/watch?v=PNxFDArLhXQ">Zero to Hero with React and Redux (CodeGeek)</a>
 </p>
 
+<br />
+<p>
+  <a href="http://blog.safe.com/2014/03/twitter-stream-api-map">Using the Twitter Stream API to Visualize Tweets on Google Maps</a> (safe.com)
+</p>
 
 
