@@ -6,38 +6,47 @@
   <a href="http://survivejs.com/react/introduction">SurviveJS - React From apprentice to master</a> (survivejs.com)
 </p>
 <p>
-  <a href="https://appendto.com/2016/10/mapping-colorados-14er-mountains-with-react-and-redux-mega-tutorial/">Mapping Colorado’s 14er Mountains: React and Redux Mega Tutorial</a> (appendto.com)
+  <a href="https://appendto.com/2016/10/mapping-colorados-14er-mountains-with-react-and-redux-mega-tutorial">Mapping Colorado’s 14er Mountains: React and Redux Mega Tutorial</a> (appendto.com)
 </p>
 <p>
   <a href="https://appendto.com/2016/10/find-your-park-with-reactjs-and-the-darksky-api">‘Find Your Park’ with ReactJS, Google Maps and the DarkSky API</a> (appendto.com)
 </p>
 <p>
-  <a href="https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/">React Tutorial: Cloning Yelp</a> (fullstackreact.com)
+  <a href="https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp">React Tutorial: Cloning Yelp</a> (fullstackreact.com)
 </p>
 <p>
-  <a href="http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/">Create a character voting app using React, Node.js, MongoDB and Socket.IO</a> (sahatyalkabov.com)
+  <a href="http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio">Create a character voting app using React, Node.js, MongoDB and Socket.IO</a> (sahatyalkabov.com)
 </p>
 <p>
   <a href="https://www.syncano.io/blog/build-pokemon-radar-app/">Build a Pokémon Radar App in React with Syncano</a> (syncano.io)
 </p>
 <p>
-  <a href="http://cabin.getstream.io/">Learn React & Redux With Cabin</a> (getstream.io)
+  <a href="http://cabin.getstream.io">Learn React & Redux With Cabin</a> (getstream.io)
 </p>
 <p>
-  <a href="http://myappincome.co.uk/rock-and-roll-reactjs-tutorial-part-1/">Rock and Roll React.js Tutorial</a> (myappincome.co.uk)
+  <a href="http://myappincome.co.uk/rock-and-roll-reactjs-tutorial-part-1">Rock and Roll React.js Tutorial</a> (myappincome.co.uk)
 </p>
 <p>
   <a href="http://tutorials.pluralsight.com/front-end-javascript/building-a-dashboard-in-react">Building a Dashboard in React (pluralsight.com)</a>
 </p>
 <p>
-  <a href="https://appendto.com/2016/09/creating-a-realtime-pokedex-app-with-react-and-rethinkdb/">Creating a Realtime Pokedex App with React and RethinkDB</a> (appendto.com)
+  <a href="https://appendto.com/2016/09/creating-a-realtime-pokedex-app-with-react-and-rethinkdb">Creating a Realtime Pokedex App with React and RethinkDB</a> (appendto.com)
 </p>
 <p>
-  <a href="http://4dev.tech/2016/03/tutorial-sorting-and-filtering-a-reactjs-datatable/">Tutorial: Sorting and Filtering a ReactJS Datatable</a> (4dev.tech)
+  <a href="http://4dev.tech/2016/03/tutorial-sorting-and-filtering-a-reactjs-datatable">Tutorial: Sorting and Filtering a ReactJS Datatable</a> (4dev.tech)
 </p>
- 
- 
- 
+<p>
+  <a href="https://blog.tighten.co/react-101-building-a-gif-search-engine">React 101, Part 1: Building a GIF search engine</a> (tighten.co)
+</p> 
+<p>
+  <a href="http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga">Build an Image Gallery Using React, Redux and redux-saga</a> (joelhooks.com)
+</p> 
+
+<p>
+  <a href="http://matthewdaly.co.uk/blog/2015/09/28/building-a-real-time-twitter-stream-with-node-dot-js-react-dot-js-and-redis">Building a Real-time Twitter Stream With Node.js, React.js and Redis</a> (matthewdaly.co.uk)
+</p> 
+
+
  
  
 <h1>ReactJS Redux Video Tutorials/Lessons</h1>
