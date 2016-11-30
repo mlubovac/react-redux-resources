@@ -54,16 +54,16 @@
   <a href="https://learnredux.com/">Learn React & Redux (Wes Bos)</a> (learnredux.com)
 </p>
 <p>
-  <a href="https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU">ReactJS / Redux Basics (Mindspace)</a>
+  <a href="https://www.youtube.com/watch?v=qrsle5quS7A&list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_">ReactJS / Redux Basics</a> (Mindspace@youtube.com)
 </p>
 <p>
-  <a href="https://www.youtube.com/watch?v=BwAakF_VUV8&list=PLoAsubXIl8uJugGO_VFB0Q0xe3r0Jk6C9">ReactJS from the start (CodeWithTim)</a>
+  <a href="https://www.youtube.com/watch?v=BwAakF_VUV8&list=PLoAsubXIl8uJugGO_VFB0Q0xe3r0Jk6C9">ReactJS from the start</a> (CodeWithTim@youtube.com)
 </p>
 <p>
-  <a href="https://www.youtube.com/watch?v=5oiXG9f6GO0&list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY">Building app with React and Redux (Rem Zolotykh)</a>
+  <a href="https://www.youtube.com/watch?v=5oiXG9f6GO0&list=PLuNEz8XtB51K-x3bwCC9uNM_cxXaiCcRY">Building app with React and Redux</a> (Rem Zolotykh@youtube.com)
 </p>
 <p>
-  <a href="https://www.youtube.com/watch?v=PNxFDArLhXQ">Zero to Hero with React and Redux (CodeGeek)</a>
+  <a href="https://www.youtube.com/watch?v=PNxFDArLhXQ">Zero to Hero with React and Redux</a> (CodeGeek@youtube.com)
 </p>
 
 <br />
