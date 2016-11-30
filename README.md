@@ -27,7 +27,7 @@
   <a href="http://myappincome.co.uk/rock-and-roll-reactjs-tutorial-part-1">Rock and Roll React.js Tutorial</a> (myappincome.co.uk)
 </p>
 <p>
-  <a href="http://tutorials.pluralsight.com/front-end-javascript/building-a-dashboard-in-react">Building a Dashboard in React (pluralsight.com)</a>
+  <a href="http://tutorials.pluralsight.com/front-end-javascript/building-a-dashboard-in-react">Building a Dashboard in React</a> (pluralsight.com)
 </p>
 <p>
   <a href="https://appendto.com/2016/09/creating-a-realtime-pokedex-app-with-react-and-rethinkdb">Creating a Realtime Pokedex App with React and RethinkDB</a> (appendto.com)
