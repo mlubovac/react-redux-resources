@@ -41,10 +41,13 @@
 <p>
   <a href="http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga">Build an Image Gallery Using React, Redux and redux-saga</a> (joelhooks.com)
 </p> 
-
 <p>
   <a href="http://matthewdaly.co.uk/blog/2015/09/28/building-a-real-time-twitter-stream-with-node-dot-js-react-dot-js-and-redis">Building a Real-time Twitter Stream With Node.js, React.js and Redis</a> (matthewdaly.co.uk)
 </p> 
+<p>
+  <a href="https://scotch.io/tutorials/build-a-media-library-with-react-redux-and-redux-saga-part-1">Build A Media Library with React, Redux, and Redux-saga</a> (scotch.io)
+</p>
+
 
 
  
