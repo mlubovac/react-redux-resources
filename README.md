@@ -68,7 +68,9 @@
 <p>
   <a href="https://www.youtube.com/watch?v=PNxFDArLhXQ">Zero to Hero with React and Redux</a> (CodeGeek@youtube.com)
 </p>
-
+<p>
+  <a href="https://www.youtube.com/watch?v=53SNhzt7AqA&list=PLei96ZX_m9sUDK-1b8fNXZgBnnb6wA7sB">React & Redux With ExpressJS (2016)</a> (Chris Hawkes@youtube.com)
+</p>
 <br />
 <p>
   <a href="http://blog.safe.com/2014/03/twitter-stream-api-map">Using the Twitter Stream API to Visualize Tweets on Google Maps</a> (safe.com)
