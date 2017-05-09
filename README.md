@@ -1,4 +1,4 @@
-# react-redux-resources
+# React/Redux Resources
 
 <h1>ReactJS Redux Tutorials</h1>
 
